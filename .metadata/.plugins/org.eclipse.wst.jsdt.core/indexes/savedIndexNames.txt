@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\meoka\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1581353848.index
+2123357228.index
+814571077.index
+1541567932.index
+3988932626.index
+1077158059.index
